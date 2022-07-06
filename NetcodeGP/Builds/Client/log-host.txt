@@ -1,0 +1,1142 @@
+Mono path[0] = 'D:/GitHub/NetcodeGP/NetcodeGP/Builds/Client/NetcodeGP_Data/Managed'
+Mono config path = 'D:/GitHub/NetcodeGP/NetcodeGP/Builds/Client/MonoBleedingEdge/etc'
+Initialize engine version: 2021.3.4f1 (cb45f9cae8b7)
+[Subsystems] Discovering subsystems at path D:/GitHub/NetcodeGP/NetcodeGP/Builds/Client/NetcodeGP_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Ti Laptop GPU (ID=0x2523)
+    Vendor:   NVIDIA
+    VRAM:     3990 MB
+    Driver:   31.0.15.1640
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.114 seconds
+<RI> Initializing input.
+New input system (experimental) initialized
+<RI> Initialized touch support.
+UnloadTime: 0.874100 ms
+Server's var initialized to: 0
+Server's var initialized to: 0
+Server set its var to: 0.7, has client var at: 0
+Server set its var to: 0.2, has client var at: 0
+Server set its var to: 2.1, has client var at: 0
+Server set its var to: 1.6, has client var at: 0
+Server set its var to: 3.299999, has client var at: 0
+Server set its var to: 2.799999, has client var at: 0
+Server set its var to: 4.099998, has client var at: 0
+Server set its var to: 3.599999, has client var at: 0
+Server set its var to: 5.199997, has client var at: 0
+Server set its var to: 4.699998, has client var at: 0
+Server set its var to: 6.799996, has client var at: 0
+Server set its var to: 6.299996, has client var at: 0
+Server set its var to: 8.099995, has client var at: 0
+Server set its var to: 7.599995, has client var at: 0
+Server set its var to: 9.700001, has client var at: 0
+Server set its var to: 9.199999, has client var at: 0
+Server set its var to: 11.30001, has client var at: 0
+Server set its var to: 10.8, has client var at: 0
+Server set its var to: 12.90001, has client var at: 0
+Server set its var to: 12.40001, has client var at: 0
+Server set its var to: 14.20002, has client var at: 0
+Server set its var to: 13.70002, has client var at: 0
+Server set its var to: 15.70002, has client var at: 0
+Server set its var to: 15.20002, has client var at: 0
+Server set its var to: 17.30003, has client var at: 0
+Server set its var to: 16.80003, has client var at: 0
+Server set its var to: 18.80004, has client var at: 0
+Server set its var to: 18.30003, has client var at: 0
+Server set its var to: 20.30004, has client var at: 0
+Server set its var to: 19.80004, has client var at: 0
+Server set its var to: 21.90005, has client var at: 0
+Server set its var to: 21.40005, has client var at: 0
+Server set its var to: 23.40005, has client var at: 0
+Server set its var to: 22.90005, has client var at: 0
+Server set its var to: 25.00006, has client var at: 0
+Server set its var to: 24.50006, has client var at: 0
+Server set its var to: 26.50006, has client var at: 0
+Server set its var to: 26.00006, has client var at: 0
+Server set its var to: 28.10007, has client var at: 0
+Server set its var to: 27.60007, has client var at: 0
+Server set its var to: 29.70008, has client var at: 0
+Server set its var to: 29.20008, has client var at: 0
+Server set its var to: 31.20008, has client var at: 0
+Server set its var to: 30.70008, has client var at: 0
+Server set its var to: 32.70007, has client var at: 0
+Server set its var to: 32.20008, has client var at: 0
+Server set its var to: 34.30005, has client var at: 0
+Server set its var to: 33.80006, has client var at: 0
+Server set its var to: 35.80003, has client var at: 0
+Server set its var to: 35.30003, has client var at: 0
+Server set its var to: 37.3, has client var at: 0
+Server set its var to: 36.80001, has client var at: 0
+Server set its var to: 38.89998, has client var at: 0
+Server set its var to: 38.39999, has client var at: 0
+Server set its var to: 40.39996, has client var at: 0
+Server set its var to: 39.89996, has client var at: 0
+Server set its var to: 41.99993, has client var at: 0
+Server set its var to: 41.49994, has client var at: 0
+Server set its var to: 43.59991, has client var at: 0
+Server set its var to: 43.09991, has client var at: 0
+Server set its var to: 45.19988, has client var at: 0
+Server set its var to: 44.69989, has client var at: 0
+Server set its var to: 46.69986, has client var at: 0
+Server set its var to: 46.19987, has client var at: 0
+Server set its var to: 48.29984, has client var at: 0
+Server set its var to: 47.79984, has client var at: 0
+Server set its var to: 49.79981, has client var at: 0
+Server set its var to: 49.29982, has client var at: 0
+Server set its var to: 51.39979, has client var at: 0
+Server set its var to: 50.8998, has client var at: 0
+Server set its var to: 52.99976, has client var at: 0
+Server set its var to: 52.49977, has client var at: 0
+Server set its var to: 54.49974, has client var at: 0
+Server set its var to: 53.99975, has client var at: 0
+Server set its var to: 55.99972, has client var at: 0
+Server set its var to: 55.49973, has client var at: 0
+Server set its var to: 57.49969, has client var at: 0
+Server set its var to: 56.9997, has client var at: 0
+Server set its var to: 58.79967, has client var at: 0
+Server set its var to: 58.29968, has client var at: 0
+Server set its var to: 60.29965, has client var at: 0
+Server set its var to: 59.79966, has client var at: 0
+Server set its var to: 61.89963, has client var at: 0
+Server set its var to: 61.39964, has client var at: 0
+Server set its var to: 63.3996, has client var at: 0
+Server set its var to: 62.89961, has client var at: 0
+Server set its var to: 64.99958, has client var at: 0
+Server set its var to: 64.49959, has client var at: 0
+Server set its var to: 66.49956, has client var at: 0
+Server set its var to: 65.99957, has client var at: 0
+Server set its var to: 68.09953, has client var at: 0
+Server set its var to: 67.59954, has client var at: 0
+Server set its var to: 69.69951, has client var at: 0
+Server set its var to: 69.19952, has client var at: 0
+Server set its var to: 71.19949, has client var at: 0
+Server set its var to: 70.69949, has client var at: 0
+Server set its var to: 72.69946, has client var at: 0
+Server set its var to: 72.19947, has client var at: 0
+Server set its var to: 74.19944, has client var at: 0
+Server set its var to: 73.69945, has client var at: 0
+Server set its var to: 75.79942, has client var at: 0
+Server set its var to: 75.29942, has client var at: 0
+Server set its var to: 77.39939, has client var at: 0
+Server set its var to: 76.8994, has client var at: 0
+Server's var initialized to: 0
+Server set its var to: 0.1, has client var at: 0
+Server set its var to: 78.99937, has client var at: 0
+Server set its var to: 78.49937, has client var at: 0
+Server set its var to: 1.6, has client var at: 0
+Server set its var to: 80.49934, has client var at: 0
+Server set its var to: 79.99935, has client var at: 0
+Server set its var to: 3.099999, has client var at: 0
+Server set its var to: 82.09932, has client var at: 0
+Server set its var to: 81.59933, has client var at: 0
+Server set its var to: 4.599998, has client var at: 0
+Server set its var to: 83.6993, has client var at: 0
+Server set its var to: 83.1993, has client var at: 0
+Server set its var to: 6.199996, has client var at: 0
+Server set its var to: 85.29927, has client var at: 0
+Server set its var to: 84.79928, has client var at: 0
+Server set its var to: 7.699995, has client var at: 0
+Server set its var to: 86.79925, has client var at: 0
+Server set its var to: 86.29926, has client var at: 0
+Server set its var to: 9.199999, has client var at: 0
+Server set its var to: 88.39922, has client var at: 0
+Server set its var to: 87.89923, has client var at: 0
+Server set its var to: 10.8, has client var at: 0
+Server set its var to: 89.8992, has client var at: 0
+Server set its var to: 89.39921, has client var at: 0
+Server set its var to: 12.30001, has client var at: 0
+Server set its var to: 91.49918, has client var at: 0
+Server set its var to: 90.99918, has client var at: 0
+Server set its var to: 13.90002, has client var at: 0
+Server set its var to: 93.09915, has client var at: 0
+Server set its var to: 92.59916, has client var at: 0
+Server set its var to: 15.50002, has client var at: 0
+Server set its var to: 94.69913, has client var at: 0
+Server set its var to: 94.19913, has client var at: 0
+Server set its var to: 17.10003, has client var at: 0
+Server set its var to: 96.1991, has client var at: 0
+Server set its var to: 95.69911, has client var at: 0
+Server set its var to: 18.60003, has client var at: 0
+Server set its var to: 97.79908, has client var at: 0
+Server set its var to: 97.29909, has client var at: 0
+Server set its var to: 20.20004, has client var at: 0
+Server set its var to: 99.39906, has client var at: 0
+Server set its var to: 98.89906, has client var at: 0
+Server set its var to: 21.80005, has client var at: 0
+Server set its var to: 100.999, has client var at: 0
+Server set its var to: 100.499, has client var at: 0
+Server set its var to: 23.40005, has client var at: 0
+Server set its var to: 102.599, has client var at: 0
+Server set its var to: 102.099, has client var at: 0
+Server set its var to: 25.00006, has client var at: 0
+Server set its var to: 104.099, has client var at: 0
+Server set its var to: 103.599, has client var at: 0
+Server set its var to: 26.50006, has client var at: 0
+Server set its var to: 105.599, has client var at: 0
+Server set its var to: 105.099, has client var at: 0
+Server set its var to: 28.00007, has client var at: 0
+Server set its var to: 107.0989, has client var at: 0
+Server set its var to: 106.5989, has client var at: 0
+Server set its var to: 29.50008, has client var at: 0
+Server set its var to: 108.5989, has client var at: 0
+Server set its var to: 108.0989, has client var at: 0
+Server set its var to: 31.00008, has client var at: 0
+Server set its var to: 110.1989, has client var at: 0
+Server set its var to: 109.6989, has client var at: 0
+Server set its var to: 32.60007, has client var at: 0
+Server set its var to: 111.6989, has client var at: 0
+Server set its var to: 111.1989, has client var at: 0
+Server set its var to: 34.10005, has client var at: 0
+Server set its var to: 113.2988, has client var at: 0
+Server set its var to: 112.7989, has client var at: 0
+Server set its var to: 35.70003, has client var at: 0
+Server set its var to: 114.7988, has client var at: 0
+Server set its var to: 114.2988, has client var at: 0
+Server set its var to: 37.2, has client var at: 0
+Server set its var to: 116.3988, has client var at: 0
+Server set its var to: 115.8988, has client var at: 0
+Server set its var to: 38.79998, has client var at: 0
+Server set its var to: 117.9988, has client var at: 0
+Server set its var to: 117.4988, has client var at: 0
+Server set its var to: 40.39996, has client var at: 0
+Server set its var to: 119.5987, has client var at: 0
+Server set its var to: 119.0988, has client var at: 0
+Server set its var to: 41.99993, has client var at: 0
+Server set its var to: 120.7987, has client var at: 0
+Server set its var to: 120.2987, has client var at: 0
+Server set its var to: 43.19991, has client var at: 0
+Server set its var to: 122.3987, has client var at: 0
+Server set its var to: 121.8987, has client var at: 0
+Server set its var to: 44.79989, has client var at: 0
+Server set its var to: 123.9987, has client var at: 0
+Server set its var to: 123.4987, has client var at: 0
+Server set its var to: 46.39986, has client var at: 0
+Server set its var to: 125.4987, has client var at: 0
+Server set its var to: 124.9987, has client var at: 0
+Server set its var to: 47.89984, has client var at: 0
+Server set its var to: 127.0986, has client var at: 0
+Server set its var to: 126.5986, has client var at: 0
+Server set its var to: 49.49982, has client var at: 0
+Server set its var to: 128.5986, has client var at: 0
+Server set its var to: 128.0986, has client var at: 0
+Server set its var to: 50.99979, has client var at: 0
+Server set its var to: 130.1987, has client var at: 0
+Server set its var to: 129.6987, has client var at: 0
+Server set its var to: 52.59977, has client var at: 0
+Server set its var to: 131.6988, has client var at: 0
+Server set its var to: 131.1988, has client var at: 0
+Server set its var to: 54.09975, has client var at: 0
+Server set its var to: 133.2989, has client var at: 0
+Server set its var to: 132.7989, has client var at: 0
+Server set its var to: 55.69972, has client var at: 0
+Server set its var to: 134.799, has client var at: 0
+Server set its var to: 134.299, has client var at: 0
+Server set its var to: 57.1997, has client var at: 0
+Server set its var to: 136.3991, has client var at: 0
+Server set its var to: 135.8991, has client var at: 0
+Server set its var to: 58.79967, has client var at: 0
+Server set its var to: 137.8992, has client var at: 0
+Server set its var to: 137.3992, has client var at: 0
+Server set its var to: 60.29965, has client var at: 0
+Server set its var to: 139.3993, has client var at: 0
+Server set its var to: 138.8993, has client var at: 0
+Server set its var to: 61.79963, has client var at: 0
+Server set its var to: 140.8994, has client var at: 0
+Server set its var to: 140.3994, has client var at: 0
+Server set its var to: 63.29961, has client var at: 0
+Server set its var to: 142.4995, has client var at: 0
+Server set its var to: 141.9995, has client var at: 0
+Server set its var to: 64.89958, has client var at: 0
+Server set its var to: 143.9996, has client var at: 0
+Server set its var to: 143.4996, has client var at: 0
+Server set its var to: 66.39956, has client var at: 0
+Server set its var to: 145.4997, has client var at: 0
+Server set its var to: 144.9996, has client var at: 0
+Server set its var to: 67.89954, has client var at: 0
+Server set its var to: 147.0998, has client var at: 0
+Server set its var to: 146.5997, has client var at: 0
+Server set its var to: 69.49951, has client var at: 0
+Server set its var to: 148.5999, has client var at: 0
+Server set its var to: 148.0998, has client var at: 0
+Server set its var to: 70.99949, has client var at: 0
+Server set its var to: 150.2, has client var at: 0
+Server set its var to: 149.6999, has client var at: 0
+Server set its var to: 72.59946, has client var at: 0
+Server set its var to: 151.7001, has client var at: 0
+Server set its var to: 151.2, has client var at: 0
+Server set its var to: 74.09944, has client var at: 0
+Server set its var to: 153.2001, has client var at: 0
+Server set its var to: 152.7001, has client var at: 0
+Server set its var to: 75.59942, has client var at: 0
+Server set its var to: 154.8002, has client var at: 0
+Server set its var to: 154.3002, has client var at: 0
+Server set its var to: 77.19939, has client var at: 0
+Server set its var to: 156.4003, has client var at: 0
+Server set its var to: 155.9003, has client var at: 0
+Server set its var to: 78.79937, has client var at: 0
+Server set its var to: 157.9004, has client var at: 0
+Server set its var to: 157.4004, has client var at: 0
+Server set its var to: 80.29935, has client var at: 0
+Server set its var to: 159.5005, has client var at: 0
+Server set its var to: 159.0005, has client var at: 0
+Server set its var to: 81.89932, has client var at: 0
+Server set its var to: 161.0006, has client var at: 0
+Server set its var to: 160.5006, has client var at: 0
+Server set its var to: 83.3993, has client var at: 0
+Server set its var to: 162.6007, has client var at: 0
+Server set its var to: 162.1007, has client var at: 0
+Server set its var to: 84.99928, has client var at: 0
+Server set its var to: 164.2008, has client var at: 0
+Server set its var to: 163.7008, has client var at: 0
+Server set its var to: 86.59925, has client var at: 0
+Server set its var to: 165.8009, has client var at: 0
+Server set its var to: 165.3009, has client var at: 0
+Server set its var to: 88.19923, has client var at: 0
+Server set its var to: 167.401, has client var at: 0
+Server set its var to: 166.901, has client var at: 0
+Server set its var to: 89.7992, has client var at: 0
+Server set its var to: 169.0011, has client var at: 0
+Server set its var to: 168.5011, has client var at: 0
+Server set its var to: 91.39918, has client var at: 0
+Server set its var to: 170.5012, has client var at: 0
+Server set its var to: 170.0012, has client var at: 0
+Server set its var to: 92.89915, has client var at: 0
+Server set its var to: 172.1013, has client var at: 0
+Server set its var to: 171.6013, has client var at: 0
+Server set its var to: 94.49913, has client var at: 0
+Server set its var to: 173.6014, has client var at: 0
+Server set its var to: 173.1014, has client var at: 0
+Server set its var to: 95.99911, has client var at: 0
+Server set its var to: 175.2015, has client var at: 0
+Server set its var to: 174.7015, has client var at: 0
+Server set its var to: 97.59908, has client var at: 0
+Server set its var to: 176.8016, has client var at: 0
+Server set its var to: 176.3016, has client var at: 0
+Server set its var to: 99.19906, has client var at: 0
+Server set its var to: 178.4017, has client var at: 0
+Server set its var to: 177.9017, has client var at: 0
+Server set its var to: 100.799, has client var at: 0
+Server set its var to: 179.9018, has client var at: 0
+Server set its var to: 179.4017, has client var at: 0
+Server set its var to: 181.5019, has client var at: 0
+Server set its var to: 181.0018, has client var at: 0
+Server set its var to: 183.002, has client var at: 0
+Server set its var to: 182.5019, has client var at: 0
+Server set its var to: 184.5021, has client var at: 0
+Server set its var to: 184.002, has client var at: 0
+Server set its var to: 186.0022, has client var at: 0
+Server set its var to: 185.5021, has client var at: 0
+Server set its var to: 187.5022, has client var at: 0
+Server set its var to: 187.0022, has client var at: 0
+Server set its var to: 189.0023, has client var at: 0
+Server set its var to: 188.5023, has client var at: 0
+Server set its var to: 190.6024, has client var at: 0
+Server set its var to: 190.1024, has client var at: 0
+Server set its var to: 192.2025, has client var at: 0
+Server set its var to: 191.7025, has client var at: 0
+Server set its var to: 193.8026, has client var at: 0
+Server set its var to: 193.3026, has client var at: 0
+Server set its var to: 195.3027, has client var at: 0
+Server set its var to: 194.8027, has client var at: 0
+Server set its var to: 196.8028, has client var at: 0
+Server set its var to: 196.3028, has client var at: 0
+Server set its var to: 198.4029, has client var at: 0
+Server set its var to: 197.9029, has client var at: 0
+Server set its var to: 200.003, has client var at: 0
+Server set its var to: 199.503, has client var at: 0
+Server set its var to: 201.6031, has client var at: 0
+Server set its var to: 201.1031, has client var at: 0
+Server set its var to: 203.2032, has client var at: 0
+Server set its var to: 202.7032, has client var at: 0
+Server set its var to: 204.7033, has client var at: 0
+Server set its var to: 204.2033, has client var at: 0
+Server set its var to: 206.3034, has client var at: 0
+Server set its var to: 205.8034, has client var at: 0
+Server set its var to: 207.8035, has client var at: 0
+Server set its var to: 207.3035, has client var at: 0
+Server set its var to: 209.3036, has client var at: 0
+Server set its var to: 208.8035, has client var at: 0
+Server set its var to: 210.9037, has client var at: 0
+Server set its var to: 210.4036, has client var at: 0
+Server set its var to: 212.5038, has client var at: 0
+Server set its var to: 212.0037, has client var at: 0
+Server set its var to: 214.1039, has client var at: 0
+Server set its var to: 213.6038, has client var at: 0
+Server set its var to: 215.604, has client var at: 0
+Server set its var to: 215.1039, has client var at: 0
+Server set its var to: 217.2041, has client var at: 0
+Server set its var to: 216.704, has client var at: 0
+Server set its var to: 218.7041, has client var at: 0
+Server set its var to: 218.2041, has client var at: 0
+Server set its var to: 220.3042, has client var at: 0
+Server set its var to: 219.8042, has client var at: 0
+Server set its var to: 221.9043, has client var at: 0
+Server set its var to: 221.4043, has client var at: 0
+Server set its var to: 223.5044, has client var at: 0
+Server set its var to: 223.0044, has client var at: 0
+Server set its var to: 225.0045, has client var at: 0
+Server set its var to: 224.5045, has client var at: 0
+Server set its var to: 226.6046, has client var at: 0
+Server set its var to: 226.1046, has client var at: 0
+Server set its var to: 228.2047, has client var at: 0
+Server set its var to: 227.7047, has client var at: 0
+Server set its var to: 229.7048, has client var at: 0
+Server set its var to: 229.2048, has client var at: 0
+Server set its var to: 231.3049, has client var at: 0
+Server set its var to: 230.8049, has client var at: 0
+Server set its var to: 232.805, has client var at: 0
+Server set its var to: 232.305, has client var at: 0
+Server set its var to: 234.4051, has client var at: 0
+Server set its var to: 233.9051, has client var at: 0
+Server set its var to: 236.0052, has client var at: 0
+Server set its var to: 235.5052, has client var at: 0
+Server set its var to: 237.5053, has client var at: 0
+Server set its var to: 237.0053, has client var at: 0
+Server set its var to: 239.0054, has client var at: 0
+Server set its var to: 238.5054, has client var at: 0
+Server set its var to: 240.6055, has client var at: 0
+Server set its var to: 240.1055, has client var at: 0
+Server set its var to: 242.2056, has client var at: 0
+Server set its var to: 241.7056, has client var at: 0
+Server set its var to: 243.7057, has client var at: 0
+Server set its var to: 243.2056, has client var at: 0
+Server set its var to: 245.3058, has client var at: 0
+Server set its var to: 244.8057, has client var at: 0
+Server set its var to: 246.9059, has client var at: 0
+Server set its var to: 246.4058, has client var at: 0
+Server set its var to: 248.406, has client var at: 0
+Server set its var to: 247.9059, has client var at: 0
+Server set its var to: 250.0061, has client var at: 0
+Server set its var to: 249.506, has client var at: 0
+Server set its var to: 251.6062, has client var at: 0
+Server set its var to: 251.1061, has client var at: 0
+Server set its var to: 253.1062, has client var at: 0
+Server set its var to: 252.6062, has client var at: 0
+Server set its var to: 254.6063, has client var at: 0
+Server set its var to: 254.1063, has client var at: 0
+Server set its var to: 256.2064, has client var at: 0
+Server set its var to: 255.7064, has client var at: 0
+Server set its var to: 257.7065, has client var at: 0
+Server set its var to: 257.2065, has client var at: 0
+Server set its var to: 259.3066, has client var at: 0
+Server set its var to: 258.8066, has client var at: 0
+Server set its var to: 260.9067, has client var at: 0
+Server set its var to: 260.4067, has client var at: 0
+Server set its var to: 262.4068, has client var at: 0
+Server set its var to: 261.9068, has client var at: 0
+Server set its var to: 264.0069, has client var at: 0
+Server set its var to: 263.5069, has client var at: 0
+Server set its var to: 265.607, has client var at: 0
+Server set its var to: 265.107, has client var at: 0
+Server set its var to: 267.1071, has client var at: 0
+Server set its var to: 266.6071, has client var at: 0
+Server set its var to: 268.6072, has client var at: 0
+Server set its var to: 268.1071, has client var at: 0
+Server set its var to: 270.2073, has client var at: 0
+Server set its var to: 269.7072, has client var at: 0
+Server set its var to: 271.7074, has client var at: 0
+Server set its var to: 271.2073, has client var at: 0
+Server set its var to: 273.2075, has client var at: 0
+Server set its var to: 272.7074, has client var at: 0
+Server set its var to: 274.8076, has client var at: 0
+Server set its var to: 274.3075, has client var at: 0
+Server set its var to: 276.3076, has client var at: 0
+Server set its var to: 275.8076, has client var at: 0
+Server set its var to: 277.9077, has client var at: 0
+Server set its var to: 277.4077, has client var at: 0
+Server set its var to: 279.4078, has client var at: 0
+Server set its var to: 278.9078, has client var at: 0
+Server set its var to: 281.0079, has client var at: 0
+Server set its var to: 280.5079, has client var at: 0
+Server set its var to: 282.508, has client var at: 0
+Server set its var to: 282.008, has client var at: 0
+Server set its var to: 284.1081, has client var at: 0
+Server set its var to: 283.6081, has client var at: 0
+Server set its var to: 285.6082, has client var at: 0
+Server set its var to: 285.1082, has client var at: 0
+Server set its var to: 287.1083, has client var at: 0
+Server set its var to: 286.6083, has client var at: 0
+Server set its var to: 288.6084, has client var at: 0
+Server set its var to: 288.1084, has client var at: 0
+Server set its var to: 290.1085, has client var at: 0
+Server set its var to: 289.6085, has client var at: 0
+Server set its var to: 291.7086, has client var at: 0
+Server set its var to: 291.2086, has client var at: 0
+Server set its var to: 293.2087, has client var at: 0
+Server set its var to: 292.7086, has client var at: 0
+Server set its var to: 294.8088, has client var at: 0
+Server set its var to: 294.3087, has client var at: 0
+Server set its var to: 296.4089, has client var at: 0
+Server set its var to: 295.9088, has client var at: 0
+Server set its var to: 297.909, has client var at: 0
+Server set its var to: 297.4089, has client var at: 0
+Server set its var to: 299.4091, has client var at: 0
+Server set its var to: 298.909, has client var at: 0
+Server set its var to: 301.0092, has client var at: 0
+Server set its var to: 300.5091, has client var at: 0
+Server set its var to: 302.5092, has client var at: 0
+Server set its var to: 302.0092, has client var at: 0
+Server set its var to: 304.1093, has client var at: 0
+Server set its var to: 303.6093, has client var at: 0
+Server set its var to: 305.6094, has client var at: 0
+Server set its var to: 305.1094, has client var at: 0
+Server set its var to: 307.1095, has client var at: 0
+Server set its var to: 306.6095, has client var at: 0
+Server set its var to: 308.7096, has client var at: 0
+Server set its var to: 308.2096, has client var at: 0
+Server set its var to: 310.2097, has client var at: 0
+Server set its var to: 309.7097, has client var at: 0
+Server set its var to: 311.8098, has client var at: 0
+Server set its var to: 311.3098, has client var at: 0
+Server set its var to: 313.4099, has client var at: 0
+Server set its var to: 312.9099, has client var at: 0
+Server set its var to: 315.01, has client var at: 0
+Server set its var to: 314.51, has client var at: 0
+Server set its var to: 316.5101, has client var at: 0
+Server set its var to: 316.0101, has client var at: 0
+Server set its var to: 318.1102, has client var at: 0
+Server set its var to: 317.6102, has client var at: 0
+Server set its var to: 319.6103, has client var at: 0
+Server set its var to: 319.1103, has client var at: 0
+Server set its var to: 321.1104, has client var at: 0
+Server set its var to: 320.6104, has client var at: 0
+Server set its var to: 322.7105, has client var at: 0
+Server set its var to: 322.2104, has client var at: 0
+Server set its var to: 324.3106, has client var at: 0
+Server set its var to: 323.8105, has client var at: 0
+Server set its var to: 325.8107, has client var at: 0
+Server set its var to: 325.3106, has client var at: 0
+Server set its var to: 327.3108, has client var at: 0
+Server set its var to: 326.8107, has client var at: 0
+Server set its var to: 328.9109, has client var at: 0
+Server set its var to: 328.4108, has client var at: 0
+Server set its var to: 330.4109, has client var at: 0
+Server set its var to: 329.9109, has client var at: 0
+Server set its var to: 332.011, has client var at: 0
+Server set its var to: 331.511, has client var at: 0
+Server set its var to: 333.6111, has client var at: 0
+Server set its var to: 333.1111, has client var at: 0
+Server set its var to: 335.2112, has client var at: 0
+Server set its var to: 334.7112, has client var at: 0
+Server set its var to: 336.7113, has client var at: 0
+Server set its var to: 336.2113, has client var at: 0
+Server set its var to: 338.3114, has client var at: 0
+Server set its var to: 337.8114, has client var at: 0
+Server set its var to: 339.9115, has client var at: 0
+Server set its var to: 339.4115, has client var at: 0
+Server set its var to: 341.5116, has client var at: 0
+Server set its var to: 341.0116, has client var at: 0
+Server set its var to: 343.1117, has client var at: 0
+Server set its var to: 342.6117, has client var at: 0
+Server set its var to: 344.7118, has client var at: 0
+Server set its var to: 344.2118, has client var at: 0
+Server set its var to: 346.3119, has client var at: 0
+Server set its var to: 345.8119, has client var at: 0
+Server set its var to: 347.912, has client var at: 0
+Server set its var to: 347.412, has client var at: 0
+Server set its var to: 349.5121, has client var at: 0
+Server set its var to: 349.0121, has client var at: 0
+Server set its var to: 351.1122, has client var at: 0
+Server set its var to: 350.6122, has client var at: 0
+Server set its var to: 352.6123, has client var at: 0
+Server set its var to: 352.1123, has client var at: 0
+Server set its var to: 354.2124, has client var at: 0
+Server set its var to: 353.7124, has client var at: 0
+Server set its var to: 355.8125, has client var at: 0
+Server set its var to: 355.3125, has client var at: 0
+Server set its var to: 357.3126, has client var at: 0
+Server set its var to: 356.8126, has client var at: 0
+Server set its var to: 358.9127, has client var at: 0
+Server set its var to: 358.4127, has client var at: 0
+Server set its var to: 360.4128, has client var at: 0
+Server set its var to: 359.9128, has client var at: 0
+Server set its var to: 362.0129, has client var at: 0
+Server set its var to: 361.5128, has client var at: 0
+Server set its var to: 363.513, has client var at: 0
+Server set its var to: 363.0129, has client var at: 0
+Server set its var to: 365.1131, has client var at: 0
+Server set its var to: 364.613, has client var at: 0
+Server set its var to: 366.6132, has client var at: 0
+Server set its var to: 366.1131, has client var at: 0
+Server set its var to: 368.2133, has client var at: 0
+Server set its var to: 367.7132, has client var at: 0
+Server set its var to: 369.8134, has client var at: 0
+Server set its var to: 369.3133, has client var at: 0
+Server set its var to: 371.3134, has client var at: 0
+Server set its var to: 370.8134, has client var at: 0
+Server set its var to: 372.9135, has client var at: 0
+Server set its var to: 372.4135, has client var at: 0
+Server set its var to: 374.5136, has client var at: 0
+Server set its var to: 374.0136, has client var at: 0
+Server set its var to: 376.1137, has client var at: 0
+Server set its var to: 375.6137, has client var at: 0
+Server set its var to: 377.7138, has client var at: 0
+Server set its var to: 377.2138, has client var at: 0
+Server set its var to: 379.2139, has client var at: 0
+Server set its var to: 378.7139, has client var at: 0
+Server set its var to: 380.714, has client var at: 0
+Server set its var to: 380.214, has client var at: 0
+Server set its var to: 382.3141, has client var at: 0
+Server set its var to: 381.8141, has client var at: 0
+Server set its var to: 383.9142, has client var at: 0
+Server set its var to: 383.4142, has client var at: 0
+Server set its var to: 385.4143, has client var at: 0
+Server set its var to: 384.9143, has client var at: 0
+Server set its var to: 386.9144, has client var at: 0
+Server set its var to: 386.4144, has client var at: 0
+Server set its var to: 388.5145, has client var at: 0
+Server set its var to: 388.0145, has client var at: 0
+Server set its var to: 390.1146, has client var at: 0
+Server set its var to: 389.6146, has client var at: 0
+Server set its var to: 391.7147, has client var at: 0
+Server set its var to: 391.2147, has client var at: 0
+Server set its var to: 393.3148, has client var at: 0
+Server set its var to: 392.8148, has client var at: 0
+Server set its var to: 394.9149, has client var at: 0
+Server set its var to: 394.4149, has client var at: 0
+Server set its var to: 396.415, has client var at: 0
+Server set its var to: 395.9149, has client var at: 0
+Server set its var to: 398.0151, has client var at: 0
+Server set its var to: 397.515, has client var at: 0
+Server set its var to: 399.6152, has client var at: 0
+Server set its var to: 399.1151, has client var at: 0
+Server set its var to: 401.2153, has client var at: 0
+Server set its var to: 400.7152, has client var at: 0
+Server set its var to: 402.7154, has client var at: 0
+Server set its var to: 402.2153, has client var at: 0
+Server set its var to: 404.3155, has client var at: 0
+Server set its var to: 403.8154, has client var at: 0
+Server set its var to: 405.9156, has client var at: 0
+Server set its var to: 405.4155, has client var at: 0
+Server set its var to: 407.5157, has client var at: 0
+Server set its var to: 407.0156, has client var at: 0
+Server set its var to: 409.1158, has client var at: 0
+Server set its var to: 408.6157, has client var at: 0
+Server set its var to: 410.7159, has client var at: 0
+Server set its var to: 410.2158, has client var at: 0
+Server set its var to: 412.3159, has client var at: 0
+Server set its var to: 411.8159, has client var at: 0
+Server set its var to: 413.916, has client var at: 0
+Server set its var to: 413.416, has client var at: 0
+Server set its var to: 415.5161, has client var at: 0
+Server set its var to: 415.0161, has client var at: 0
+Server set its var to: 417.1162, has client var at: 0
+Server set its var to: 416.6162, has client var at: 0
+Server set its var to: 418.6163, has client var at: 0
+Server set its var to: 418.1163, has client var at: 0
+Server set its var to: 420.2164, has client var at: 0
+Server set its var to: 419.7164, has client var at: 0
+Server set its var to: 421.7165, has client var at: 0
+Server set its var to: 421.2165, has client var at: 0
+Server set its var to: 423.3166, has client var at: 0
+Server set its var to: 422.8166, has client var at: 0
+Server set its var to: 424.8167, has client var at: 0
+Server set its var to: 424.3167, has client var at: 0
+Server set its var to: 426.4168, has client var at: 0
+Server set its var to: 425.9168, has client var at: 0
+Server set its var to: 427.9169, has client var at: 0
+Server set its var to: 427.4169, has client var at: 0
+Server set its var to: 429.517, has client var at: 0
+Server set its var to: 429.017, has client var at: 0
+Server set its var to: 431.1171, has client var at: 0
+Server set its var to: 430.6171, has client var at: 0
+Server set its var to: 432.7172, has client var at: 0
+Server set its var to: 432.2172, has client var at: 0
+Server set its var to: 434.2173, has client var at: 0
+Server set its var to: 433.7173, has client var at: 0
+Server set its var to: 435.8174, has client var at: 0
+Server set its var to: 435.3174, has client var at: 0
+Server set its var to: 437.4175, has client var at: 0
+Server set its var to: 436.9174, has client var at: 0
+Server set its var to: 439.0176, has client var at: 0
+Server set its var to: 438.5175, has client var at: 0
+Server set its var to: 440.6177, has client var at: 0
+Server set its var to: 440.1176, has client var at: 0
+Server set its var to: 442.1178, has client var at: 0
+Server set its var to: 441.6177, has client var at: 0
+Server set its var to: 443.7179, has client var at: 0
+Server set its var to: 443.2178, has client var at: 0
+Server set its var to: 445.318, has client var at: 0
+Server set its var to: 444.8179, has client var at: 0
+Server set its var to: 446.9181, has client var at: 0
+Server set its var to: 446.418, has client var at: 0
+Server set its var to: 448.5182, has client var at: 0
+Server set its var to: 448.0181, has client var at: 0
+Server set its var to: 450.0182, has client var at: 0
+Server set its var to: 449.5182, has client var at: 0
+Server set its var to: 451.6183, has client var at: 0
+Server set its var to: 451.1183, has client var at: 0
+Server set its var to: 453.1184, has client var at: 0
+Server set its var to: 452.6184, has client var at: 0
+Server set its var to: 454.7185, has client var at: 0
+Server set its var to: 454.2185, has client var at: 0
+Server set its var to: 456.3186, has client var at: 0
+Server set its var to: 455.8186, has client var at: 0
+Server set its var to: 457.9187, has client var at: 0
+Server set its var to: 457.4187, has client var at: 0
+Server set its var to: 459.4188, has client var at: 0
+Server set its var to: 458.9188, has client var at: 0
+Server set its var to: 461.0189, has client var at: 0
+Server set its var to: 460.5189, has client var at: 0
+Server set its var to: 462.619, has client var at: 0
+Server set its var to: 462.119, has client var at: 0
+Server set its var to: 464.1191, has client var at: 0
+Server set its var to: 463.6191, has client var at: 0
+Server set its var to: 465.7192, has client var at: 0
+Server set its var to: 465.2192, has client var at: 0
+Server set its var to: 467.3193, has client var at: 0
+Server set its var to: 466.8193, has client var at: 0
+Server set its var to: 468.9194, has client var at: 0
+Server set its var to: 468.4194, has client var at: 0
+Server set its var to: 470.5195, has client var at: 0
+Server set its var to: 470.0195, has client var at: 0
+Server set its var to: 472.1196, has client var at: 0
+Server set its var to: 471.6196, has client var at: 0
+Server set its var to: 473.6197, has client var at: 0
+Server set its var to: 473.1197, has client var at: 0
+Server set its var to: 475.2198, has client var at: 0
+Server set its var to: 474.7198, has client var at: 0
+Server set its var to: 476.8199, has client var at: 0
+Server set its var to: 476.3199, has client var at: 0
+Server set its var to: 478.32, has client var at: 0
+Server set its var to: 477.8199, has client var at: 0
+Server set its var to: 479.9201, has client var at: 0
+Server set its var to: 479.42, has client var at: 0
+Server set its var to: 481.4202, has client var at: 0
+Server set its var to: 480.9201, has client var at: 0
+Server set its var to: 482.9203, has client var at: 0
+Server set its var to: 482.4202, has client var at: 0
+Server set its var to: 484.5204, has client var at: 0
+Server set its var to: 484.0203, has client var at: 0
+Server set its var to: 486.1205, has client var at: 0
+Server set its var to: 485.6204, has client var at: 0
+Server set its var to: 487.6205, has client var at: 0
+Server set its var to: 487.1205, has client var at: 0
+Server set its var to: 489.2206, has client var at: 0
+Server set its var to: 488.7206, has client var at: 0
+Server set its var to: 490.7207, has client var at: 0
+Server set its var to: 490.2207, has client var at: 0
+Server set its var to: 492.3208, has client var at: 0
+Server set its var to: 491.8208, has client var at: 0
+Server set its var to: 493.8209, has client var at: 0
+Server set its var to: 493.3209, has client var at: 0
+Server set its var to: 495.421, has client var at: 0
+Server set its var to: 494.921, has client var at: 0
+Server set its var to: 496.9211, has client var at: 0
+Server set its var to: 496.4211, has client var at: 0
+Server set its var to: 498.5212, has client var at: 0
+Server set its var to: 498.0212, has client var at: 0
+Server set its var to: 500.0213, has client var at: 0
+Server set its var to: 499.5213, has client var at: 0
+Server set its var to: 501.5214, has client var at: 0
+Server set its var to: 501.0214, has client var at: 0
+Server set its var to: 503.1215, has client var at: 0
+Server set its var to: 502.6215, has client var at: 0
+Server set its var to: 504.6216, has client var at: 0
+Server set its var to: 504.1216, has client var at: 0
+Server set its var to: 506.2217, has client var at: 0
+Server set its var to: 505.7216, has client var at: 0
+Server set its var to: 507.7218, has client var at: 0
+Server set its var to: 507.2217, has client var at: 0
+Server set its var to: 509.3219, has client var at: 0
+Server set its var to: 508.8218, has client var at: 0
+Server set its var to: 510.822, has client var at: 0
+Server set its var to: 510.3219, has client var at: 0
+Server set its var to: 512.322, has client var at: 0
+Server set its var to: 511.822, has client var at: 0
+Server set its var to: 513.9216, has client var at: 0
+Server set its var to: 513.4217, has client var at: 0
+Server set its var to: 515.4212, has client var at: 0
+Server set its var to: 514.9213, has client var at: 0
+Server set its var to: 517.0208, has client var at: 0
+Server set its var to: 516.5209, has client var at: 0
+Server set its var to: 518.5204, has client var at: 0
+Server set its var to: 518.0206, has client var at: 0
+Server set its var to: 520.1201, has client var at: 0
+Server set its var to: 519.6202, has client var at: 0
+Server set its var to: 521.6197, has client var at: 0
+Server set its var to: 521.1198, has client var at: 0
+Server set its var to: 523.2193, has client var at: 0
+Server set its var to: 522.7194, has client var at: 0
+Server set its var to: 524.8189, has client var at: 0
+Server set its var to: 524.319, has client var at: 0
+Server set its var to: 526.3185, has client var at: 0
+Server set its var to: 525.8187, has client var at: 0
+Server set its var to: 527.8182, has client var at: 0
+Server set its var to: 527.3183, has client var at: 0
+Server set its var to: 529.4178, has client var at: 0
+Server set its var to: 528.9179, has client var at: 0
+Server set its var to: 531.0174, has client var at: 0
+Server set its var to: 530.5175, has client var at: 0
+Server set its var to: 532.517, has client var at: 0
+Server set its var to: 532.0172, has client var at: 0
+Server set its var to: 534.1166, has client var at: 0
+Server set its var to: 533.6168, has client var at: 0
+Server set its var to: 535.6163, has client var at: 0
+Server set its var to: 535.1164, has client var at: 0
+Server set its var to: 537.2159, has client var at: 0
+Server set its var to: 536.716, has client var at: 0
+Server set its var to: 538.7155, has client var at: 0
+Server set its var to: 538.2156, has client var at: 0
+Server set its var to: 540.3151, has client var at: 0
+Server set its var to: 539.8152, has client var at: 0
+Server set its var to: 541.9147, has client var at: 0
+Server set its var to: 541.4149, has client var at: 0
+Server set its var to: 543.4144, has client var at: 0
+Server set its var to: 542.9145, has client var at: 0
+Server set its var to: 545.014, has client var at: 0
+Server set its var to: 544.5141, has client var at: 0
+Server set its var to: 546.5136, has client var at: 0
+Server set its var to: 546.0137, has client var at: 0
+Server set its var to: 548.1132, has client var at: 0
+Server set its var to: 547.6133, has client var at: 0
+Server set its var to: 549.6129, has client var at: 0
+Server set its var to: 549.113, has client var at: 0
+Server set its var to: 551.2125, has client var at: 0
+Server set its var to: 550.7126, has client var at: 0
+Server set its var to: 552.8121, has client var at: 0
+Server set its var to: 552.3122, has client var at: 0
+Server set its var to: 554.3117, has client var at: 0
+Server set its var to: 553.8118, has client var at: 0
+Server set its var to: 555.9113, has client var at: 0
+Server set its var to: 555.4114, has client var at: 0
+Server set its var to: 557.5109, has client var at: 0
+Server set its var to: 557.011, has client var at: 0
+Server set its var to: 559.0106, has client var at: 0
+Server set its var to: 558.5107, has client var at: 0
+Server set its var to: 560.6102, has client var at: 0
+Server set its var to: 560.1103, has client var at: 0
+Server set its var to: 562.1098, has client var at: 0
+Server set its var to: 561.6099, has client var at: 0
+Server set its var to: 563.7094, has client var at: 0
+Server set its var to: 563.2095, has client var at: 0
+Server set its var to: 565.209, has client var at: 0
+Server set its var to: 564.7092, has client var at: 0
+Server set its var to: 566.8087, has client var at: 0
+Server set its var to: 566.3088, has client var at: 0
+Server set its var to: 568.4083, has client var at: 0
+Server set its var to: 567.9084, has client var at: 0
+Server set its var to: 569.9079, has client var at: 0
+Server set its var to: 569.408, has client var at: 0
+Server set its var to: 571.5075, has client var at: 0
+Server set its var to: 571.0076, has client var at: 0
+Server set its var to: 573.0071, has client var at: 0
+Server set its var to: 572.5073, has client var at: 0
+Server set its var to: 574.6068, has client var at: 0
+Server set its var to: 574.1069, has client var at: 0
+Server set its var to: 576.1064, has client var at: 0
+Server set its var to: 575.6065, has client var at: 0
+Server set its var to: 577.606, has client var at: 0
+Server set its var to: 577.1061, has client var at: 0
+Server set its var to: 579.2056, has client var at: 0
+Server set its var to: 578.7057, has client var at: 0
+Server set its var to: 580.8052, has client var at: 0
+Server set its var to: 580.3054, has client var at: 0
+Server set its var to: 582.4048, has client var at: 0
+Server set its var to: 581.905, has client var at: 0
+Server set its var to: 584.0045, has client var at: 0
+Server set its var to: 583.5046, has client var at: 0
+Server set its var to: 585.6041, has client var at: 0
+Server set its var to: 585.1042, has client var at: 0
+Server set its var to: 587.2037, has client var at: 0
+Server set its var to: 586.7038, has client var at: 0
+Server set its var to: 588.6033, has client var at: 0
+Server set its var to: 588.1035, has client var at: 0
+Server set its var to: 590.103, has client var at: 0
+Server set its var to: 589.6031, has client var at: 0
+Server set its var to: 591.6026, has client var at: 0
+Server set its var to: 591.1027, has client var at: 0
+Server set its var to: 593.1022, has client var at: 0
+Server set its var to: 592.6024, has client var at: 0
+Server set its var to: 594.202, has client var at: 0
+Server set its var to: 593.7021, has client var at: 0
+Server set its var to: 595.5016, has client var at: 0
+Server set its var to: 595.0018, has client var at: 0
+Server set its var to: 597.1013, has client var at: 0
+Server set its var to: 596.6014, has client var at: 0
+Server set its var to: 598.6009, has client var at: 0
+Server set its var to: 598.101, has client var at: 0
+Server set its var to: 600.1005, has client var at: 0
+Server set its var to: 599.6006, has client var at: 0
+Server set its var to: 601.7001, has client var at: 0
+Server set its var to: 601.2003, has client var at: 0
+Server set its var to: 603.1998, has client var at: 0
+Server set its var to: 602.6999, has client var at: 0
+Server set its var to: 604.7994, has client var at: 0
+Server set its var to: 604.2995, has client var at: 0
+Server set its var to: 606.299, has client var at: 0
+Server set its var to: 605.7991, has client var at: 0
+Server set its var to: 607.4987, has client var at: 0
+Server set its var to: 606.9988, has client var at: 0
+Server set its var to: 609.0983, has client var at: 0
+Server set its var to: 608.5984, has client var at: 0
+Server set its var to: 610.598, has client var at: 0
+Server set its var to: 610.0981, has client var at: 0
+Server set its var to: 612.0976, has client var at: 0
+Server set its var to: 611.5977, has client var at: 0
+Server set its var to: 613.6972, has client var at: 0
+Server set its var to: 613.1973, has client var at: 0
+Server set its var to: 615.2968, has client var at: 0
+Server set its var to: 614.7969, has client var at: 0
+Server set its var to: 616.7964, has client var at: 0
+Server set its var to: 616.2966, has client var at: 0
+Server set its var to: 618.0961, has client var at: 0
+Server set its var to: 619.6957, has client var at: 0
+Server set its var to: 621.0954, has client var at: 0
+Server set its var to: 621.9952, has client var at: 0
+Server set its var to: 623.5948, has client var at: 0
+Server set its var to: 625.1944, has client var at: 0
+Setting up 4 worker threads for Enlighten.
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [1.0 KB-2.0 KB]: 6259 frames, [2.0 KB-4.0 KB]: 3 frames, [4.0 KB-8.0 KB]: 2 frames, [2.0 MB-4.0 MB]: 1 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 4.0 MB
+      Peak Allocated Bytes 2.1 MB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 255 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 28.4 KB
+      Overflow Count 4
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 9.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 4
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 14.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 7
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_HIDInput]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 10.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 30
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 6264 frames, [64.0 MB-128.0 MB]: 1 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 2
+      Peak Allocated memory 76.4 MB
+      Peak Large allocation bytes 48.4 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 6265 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 18.2 MB
+      Peak Large allocation bytes 16.0 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 2
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 3
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 1
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [32.0 KB-64.0 KB]: 6264 frames, [2.0 MB-4.0 MB]: 1 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 2.7 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [0.5 MB-1.0 MB]: 6265 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 0.8 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 2
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 6265 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.4 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [0.5 MB-1.0 MB]: 6264 frames, [1.0 MB-2.0 MB]: 1 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.6 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 6265 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 5.2 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [16.0 KB-32.0 KB]: 6265 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 17.8 KB
+      Peak Large allocation bytes 0 B
