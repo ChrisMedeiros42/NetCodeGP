@@ -5,29 +5,29 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637944570704776914
-    m_Hash: 162465877
+      ticks: 637946064235920336
+    m_Hash: 168836426
   m_LockFileStatus:
     m_FilePath: D:/GitHub/NetCodeGP/NetcodeGP/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637944571378164097
-    m_Hash: 3270231572
+      ticks: 637946064915991386
+    m_Hash: 4251845306
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: D:/GitHub/NetCodeGP/NetcodeGP/Packages
-m_EditorVersion: 2021.3.6f1 (7da38d85baf6)
+m_EditorVersion: 2021.3.7f1 (24e8595d6d43)
 m_ResolvedPackages:
-- packageId: com.unity.collab-proxy@1.15.18
+- packageId: com.unity.collab-proxy@1.17.1
   testable: 0
   isDirectDependency: 1
-  version: 1.15.18
+  version: 1.17.1
   source: 1
-  resolvedPath: D:\GitHub\NetCodeGP\NetcodeGP\Library\PackageCache\com.unity.collab-proxy@1.15.18
+  resolvedPath: D:\GitHub\NetCodeGP\NetcodeGP\Library\PackageCache\com.unity.collab-proxy@1.17.1
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -106,8 +106,6 @@ m_ResolvedPackages:
     - 2.1.0-preview.5
     - 2.1.0-preview.6
     compatible:
-    - 1.15.18
-    - 1.17.0
     - 1.17.1
     - 1.17.2
     - 2.0.0-preview.6
@@ -120,13 +118,13 @@ m_ResolvedPackages:
     - 2.1.0-preview.3
     - 2.1.0-preview.5
     - 2.1.0-preview.6
-    verified: 1.15.18
+    verified: 1.17.2
   dependencies:
   - name: com.unity.services.core
     version: 1.0.1
   resolvedDependencies:
   - name: com.unity.services.core
-    version: 1.4.0
+    version: 1.4.2
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
@@ -156,16 +154,16 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637888962690000000
+  datePublishedTicks: 637916644700000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: 611215dcd30048fa921b4be160048bad4022d65f
+    revision: 2346af88036ac7256d898e0bb536f60220ce6e18
     path: 
   unityLifecycle:
-    version: 1.15.18
+    version: 1.17.1
     nextVersion: 
 - packageId: com.unity.feature.development@1.0.1
   testable: 0
@@ -575,12 +573,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.3.0
     nextVersion: 
-- packageId: com.unity.multiplayer.tools@1.0.0-pre.7
+- packageId: com.unity.multiplayer.tools@1.0.0
   testable: 0
   isDirectDependency: 1
-  version: 1.0.0-pre.7
+  version: 1.0.0
   source: 1
-  resolvedPath: D:\GitHub\NetCodeGP\NetcodeGP\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7
+  resolvedPath: D:\GitHub\NetCodeGP\NetcodeGP\Library\PackageCache\com.unity.multiplayer.tools@1.0.0
   assetPath: Packages/com.unity.multiplayer.tools
   name: com.unity.multiplayer.tools
   displayName: Multiplayer Tools
@@ -589,7 +587,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: tool
   description: Adds a suite of tools that improve workflows for multiplayer development
   status: 4
   errors: []
@@ -601,12 +599,8 @@ m_ResolvedPackages:
     - 1.0.0-pre.8
     - 1.0.0
     compatible:
-    - 1.0.0-pre.2
-    - 1.0.0-pre.6
-    - 1.0.0-pre.7
-    - 1.0.0-pre.8
     - 1.0.0
-    verified: 
+    verified: 1.0.0
   dependencies:
   - name: com.unity.profiling.core
     version: 1.0.0-pre.1
@@ -659,23 +653,23 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637865243370000000
+  datePublishedTicks: 637921144650000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.com/Unity-Technologies/com.unity.multiplayer.tools.git
-    revision: 589206ac839bcef6c090c394b992406af6724a7a
+    revision: 3928615cbda6dd5201995c76b9ee68af8cd0f73a
     path: 
   unityLifecycle:
-    version: 
-    nextVersion: 1.0.0-pre.7
-- packageId: com.unity.netcode.gameobjects@1.0.0-pre.9
+    version: 1.0.0
+    nextVersion: 
+- packageId: com.unity.netcode.gameobjects@1.0.0
   testable: 0
   isDirectDependency: 1
-  version: 1.0.0-pre.9
+  version: 1.0.0
   source: 1
-  resolvedPath: D:\GitHub\NetCodeGP\NetcodeGP\Library\PackageCache\com.unity.netcode.gameobjects@1.0.0-pre.9
+  resolvedPath: D:\GitHub\NetCodeGP\NetcodeGP\Library\PackageCache\com.unity.netcode.gameobjects@1.0.0
   assetPath: Packages/com.unity.netcode.gameobjects
   name: com.unity.netcode.gameobjects
   displayName: Netcode for GameObjects
@@ -703,27 +697,18 @@ m_ResolvedPackages:
     - 1.0.0-pre.10
     - 1.0.0
     compatible:
-    - 1.0.0-pre.2
-    - 1.0.0-pre.3
-    - 1.0.0-pre.4
-    - 1.0.0-pre.5
-    - 1.0.0-pre.6
-    - 1.0.0-pre.7
-    - 1.0.0-pre.8
-    - 1.0.0-pre.9
-    - 1.0.0-pre.10
     - 1.0.0
-    verified: 
+    verified: 1.0.0
   dependencies:
   - name: com.unity.nuget.mono-cecil
     version: 1.10.1
   - name: com.unity.transport
-    version: 1.0.0
+    version: 1.1.0
   resolvedDependencies:
   - name: com.unity.nuget.mono-cecil
     version: 1.11.4
   - name: com.unity.transport
-    version: 1.0.0
+    version: 1.1.0
   - name: com.unity.collections
     version: 1.2.4
   - name: com.unity.burst
@@ -748,17 +733,17 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637877999870000000
+  datePublishedTicks: 637921144210000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.com/Unity-Technologies/com.unity.netcode.gameobjects.git
-    revision: cdca1eb844973e9f314f6a263bb4c0497d9e396f
+    revision: fddb7cd920e1db9e49d44846d7121e38f59bd137
     path: 
   unityLifecycle:
-    version: 
-    nextVersion: 1.0.0-pre.9
+    version: 1.0.0
+    nextVersion: 
 - packageId: com.unity.nuget.mono-cecil@1.11.4
   testable: 0
   isDirectDependency: 1
@@ -773,7 +758,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: library
   description: 'The mono cecil library from https://www.nuget.org/packages/Mono.Cecil/
 
 
@@ -836,7 +821,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: library
   description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
     synced to version 13.0.1.
 
@@ -1376,7 +1361,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: tool
   description: 'Visual scripting is a workflow that uses visual, node-based graphs
     to design behaviors rather than write lines of C# script.
 
@@ -3298,12 +3283,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.6
     nextVersion: 
-- packageId: com.unity.transport@1.0.0
+- packageId: com.unity.transport@1.1.0
   testable: 0
   isDirectDependency: 0
-  version: 1.0.0
+  version: 1.1.0
   source: 1
-  resolvedPath: D:\GitHub\NetCodeGP\NetcodeGP\Library\PackageCache\com.unity.transport@1.0.0
+  resolvedPath: D:\GitHub\NetCodeGP\NetcodeGP\Library\PackageCache\com.unity.transport@1.1.0
   assetPath: Packages/com.unity.transport
   name: com.unity.transport
   displayName: Unity Transport
@@ -3348,16 +3333,15 @@ m_ResolvedPackages:
     - 1.0.0
     - 1.1.0
     compatible:
-    - 1.0.0
     - 1.1.0
-    verified: 1.0.0
+    verified: 1.1.0
   dependencies:
   - name: com.unity.collections
-    version: 1.2.3
+    version: 1.2.4
   - name: com.unity.burst
-    version: 1.6.4
+    version: 1.6.6
   - name: com.unity.mathematics
-    version: 1.2.5
+    version: 1.2.6
   resolvedDependencies:
   - name: com.unity.collections
     version: 1.2.4
@@ -3383,16 +3367,16 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637843396230000000
+  datePublishedTicks: 637910106100000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.transport.git
-    revision: 6a2ab2aed4ceaaef42b07fdcae1a89d0e09014a4
+    revision: ce258b46039e4d4937778aa8d02c6532b9ea0888
     path: 
   unityLifecycle:
-    version: 1.0.0
+    version: 1.1.0
     nextVersion: 
 - packageId: com.unity.profiling.core@1.0.2
   testable: 0
@@ -3786,12 +3770,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.1
     nextVersion: 
-- packageId: com.unity.services.core@1.4.0
+- packageId: com.unity.services.core@1.4.2
   testable: 0
   isDirectDependency: 0
-  version: 1.4.0
+  version: 1.4.2
   source: 1
-  resolvedPath: D:\GitHub\NetCodeGP\NetcodeGP\Library\PackageCache\com.unity.services.core@1.4.0
+  resolvedPath: D:\GitHub\NetCodeGP\NetcodeGP\Library\PackageCache\com.unity.services.core@1.4.2
   assetPath: Packages/com.unity.services.core
   name: com.unity.services.core
   displayName: Services Core
@@ -3825,8 +3809,6 @@ m_ResolvedPackages:
     - 1.4.1
     - 1.4.2
     compatible:
-    - 1.4.0
-    - 1.4.1
     - 1.4.2
     verified: 1.4.2
   dependencies:
@@ -3853,16 +3835,16 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637871962570000000
+  datePublishedTicks: 637919618520000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
-    revision: 92e281deb97a96f7b32464b6874de73a17c140ff
+    revision: 3964d1641ebec474aa425853985bccbdb89c2a49
     path: 
   unityLifecycle:
-    version: 1.4.0
+    version: 1.4.2
     nextVersion: 
 - packageId: com.unity.burst@1.6.6
   testable: 0
