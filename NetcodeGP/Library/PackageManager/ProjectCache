@@ -5,22 +5,22 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637946064235920336
-    m_Hash: 168836426
+      ticks: 637977348142298443
+    m_Hash: 1623657897
   m_LockFileStatus:
     m_FilePath: D:/GitHub/NetCodeGP/NetcodeGP/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637946064915991386
-    m_Hash: 4251845306
+      ticks: 637977348448876379
+    m_Hash: 2495851877
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: D:/GitHub/NetCodeGP/NetcodeGP/Packages
-m_EditorVersion: 2021.3.7f1 (24e8595d6d43)
+m_EditorVersion: 2021.3.8f1 (b30333d56e81)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@1.17.1
   testable: 0
@@ -472,12 +472,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.2.5
     nextVersion: 
-- packageId: com.unity.inputsystem@1.3.0
+- packageId: com.unity.inputsystem@1.4.1
   testable: 0
   isDirectDependency: 1
-  version: 1.3.0
+  version: 1.4.1
   source: 1
-  resolvedPath: D:\GitHub\NetCodeGP\NetcodeGP\Library\PackageCache\com.unity.inputsystem@1.3.0
+  resolvedPath: D:\GitHub\NetCodeGP\NetcodeGP\Library\PackageCache\com.unity.inputsystem@1.4.1
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -526,10 +526,11 @@ m_ResolvedPackages:
     - 1.2.0
     - 1.3.0
     - 1.4.1
+    - 1.4.2
     compatible:
-    - 1.3.0
     - 1.4.1
-    verified: 1.3.0
+    - 1.4.2
+    verified: 1.4.2
   dependencies:
   - name: com.unity.modules.uielements
     version: 1.0.0
@@ -562,16 +563,16 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637769972190000000
+  datePublishedTicks: 637915826600000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.com/Unity-Technologies/InputSystem.git
-    revision: 76d3fd182183dff9e9793431de614fd1e69e363c
+    revision: 640348c45464bc94b38877d83653512da2c90453
     path: 
   unityLifecycle:
-    version: 1.3.0
+    version: 1.4.1
     nextVersion: 
 - packageId: com.unity.multiplayer.tools@1.0.0
   testable: 0
@@ -3332,8 +3333,10 @@ m_ResolvedPackages:
     - 1.0.0-pre.16
     - 1.0.0
     - 1.1.0
+    - 1.2.0
     compatible:
     - 1.1.0
+    - 1.2.0
     verified: 1.1.0
   dependencies:
   - name: com.unity.collections
@@ -3502,9 +3505,11 @@ m_ResolvedPackages:
     - 1.2.3
     - 1.2.4
     - 1.3.1
+    - 1.4.0
     compatible:
     - 1.2.4
     - 1.3.1
+    - 1.4.0
     verified: 1.2.4
   dependencies:
   - name: com.unity.burst
@@ -3808,9 +3813,11 @@ m_ResolvedPackages:
     - 1.4.0
     - 1.4.1
     - 1.4.2
+    - 1.4.3
     compatible:
     - 1.4.2
-    verified: 1.4.2
+    - 1.4.3
+    verified: 1.4.3
   dependencies:
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
@@ -3980,7 +3987,9 @@ m_ResolvedPackages:
     - 1.7.1
     - 1.7.2
     - 1.7.3
+    - 1.7.4
     - 1.8.0-pre.1
+    - 1.8.0-pre.2
     compatible:
     - 1.6.6
     - 1.7.0-pre.1
@@ -3988,7 +3997,9 @@ m_ResolvedPackages:
     - 1.7.1
     - 1.7.2
     - 1.7.3
+    - 1.7.4
     - 1.8.0-pre.1
+    - 1.8.0-pre.2
     verified: 1.6.6
   dependencies:
   - name: com.unity.mathematics
